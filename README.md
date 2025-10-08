@@ -3,8 +3,11 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=Robot%20Tom&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/GXCoder78?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=GXCoder78&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+</div> -->
+<div align="center">
+<a href="https://github.com/neurox-io?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=neurox-io&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
 
