@@ -7,7 +7,7 @@
 <a href="https://github.com/GXCoder78?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=GXCoder78&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div> -->
 <div align="center">
-<a href="https://github.com/neurox-io?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=neurox-io&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+<a href="https://github.com/neurox-io?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=GXCoder78&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
 
