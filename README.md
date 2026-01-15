@@ -234,10 +234,10 @@
 </div>
 
 <br>
-
+<!--
 ![GXCoder78's GitHub stats](https://github-readme-stats.vercel.app/api?username=GXCoder78&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GXCoder78&layout=compact&theme=radical)
-
+-->
 
 
 <br>
